@@ -1,0 +1,1 @@
+This is a image that includes a Google Chrome installation with NodeJS. This image is useful if you run frontend tests in Docker. This is currently used in a GitLab CI test config to provide Karma a browser to test in.
